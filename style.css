@@ -146,6 +146,11 @@ header .logo {
   text-align: right;
 }
 
+.cta {
+  display: flex;
+  justify-content: center;
+}
+
 .cta .container {
   display: flex;
   justify-content: space-between;
