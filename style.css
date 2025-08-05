@@ -22,7 +22,7 @@ a {
 .container {
   max-width: 1100px;
   margin: 0 auto;
-  padding: 0 30px;
+  padding: 40px 30px;
 }
 
 header {
@@ -96,4 +96,35 @@ header .logo {
   margin-top: 20px;
   font-weight: 700;
   cursor: pointer;
+}
+
+.information .information-cards {
+  display: flex;
+  flex: 1;
+  gap: 30px;
+  justify-content: space-between;
+}
+
+.information h2 {
+  font-size: 36px;
+  color: #1F2937;
+  font-weight: 900;
+  text-align: center;
+  margin-bottom: 20px;
+  
+}
+
+.information-cards .card {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  max-width: 250px;
+  color: #1F2937;
+  gap: 15px;
+}
+
+.information img {
+  width: 200px;
+  border-radius: 10px;
 }
