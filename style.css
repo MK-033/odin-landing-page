@@ -22,7 +22,7 @@ a {
 .container {
   max-width: 1100px;
   margin: 0 auto;
-  padding: 40px 30px;
+  padding: 80px 30px;
 }
 
 header {
@@ -33,6 +33,7 @@ header {
 header .container {
   display: flex;
   justify-content: space-between;
+  padding: 40px 30px;
   height: 100%;
   align-items: center;
 }
@@ -127,4 +128,19 @@ header .logo {
 .information img {
   width: 200px;
   border-radius: 10px;
+}
+
+.quote {
+  background-color: #E5E7EB;
+}
+
+.quote p {
+  font-size: 36px;
+  font-style: italic;
+  color: #1F2937;
+}
+
+.quote figcaption {
+  color: #1F2937;
+  text-align: right;
 }
