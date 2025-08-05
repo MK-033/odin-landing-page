@@ -24,3 +24,37 @@ a {
   margin: 0 auto;
   padding: 0 30px;
 }
+
+header {
+  background-color: #1F2937;
+  height: 70px;
+}
+
+header .container {
+  display: flex;
+  justify-content: space-between;
+  height: 100%;
+  align-items: center;
+}
+
+header .logo {
+  font-size: 24px;
+  color: #F9FAF8;
+}
+
+.navbar ul {
+  display: flex;
+}
+
+.navbar ul li {
+  margin-left: 20px;
+}
+
+.navbar a {
+  font-size: 18px;
+  color: #E5E7EB;
+}
+
+.navbar a:hover {
+  color: goldenrod;
+}
