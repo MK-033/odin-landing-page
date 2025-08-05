@@ -101,9 +101,10 @@ header .logo {
 
 .information .information-cards {
   display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
   flex: 1;
   gap: 30px;
-  justify-content: space-between;
 }
 
 .information h2 {
@@ -120,7 +121,7 @@ header .logo {
   flex-direction: column;
   text-align: center;
   align-items: center;
-  max-width: 250px;
+  max-width: 200px;
   color: #1F2937;
   gap: 15px;
 }
