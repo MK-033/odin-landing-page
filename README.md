@@ -16,7 +16,7 @@ This project was an opportunity to practice creating a complete webpage from a d
 
 ## Screenshot 
 
-![Screenshot of the Odin's Aegis landing page](.images/screenshot.png)
+![Screenshot of the Odin's Aegis landing page](images/screenshot.png)
 
 ## Live Demo
 
