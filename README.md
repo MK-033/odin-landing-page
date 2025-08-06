@@ -1,4 +1,4 @@
-# Odin'sAegis - Landing Page
+# Odin's Aegis - Landing Page
 
 A landing page project demonstrating foundational HTML and layout skills with Flexbox, built as part of The Odin Project's curriculumn.
 
